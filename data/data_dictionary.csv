@@ -1,0 +1,10 @@
+dataset,column,description
+city_qpr_events.csv,minute,Numeric match minute of the event
+city_qpr_events.csv,minute_display,Human-readable match minute including stoppage time
+city_qpr_events.csv,team,Team associated with the event
+city_qpr_events.csv,player,Player associated with the event
+city_qpr_events.csv,event,Type of event such as Goal or Red Card
+city_qpr_events.csv,score_after,Score immediately after the event
+city_qpr_match_stats.csv,metric,Match statistic being measured
+city_qpr_match_stats.csv,Manchester City,Manchester City's value for the metric
+city_qpr_match_stats.csv,Queens Park Rangers,QPR's value for the metric

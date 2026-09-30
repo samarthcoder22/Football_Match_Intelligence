@@ -1,0 +1,7 @@
+minute,minute_display,team,player,event,score_after,score,is_goal,is_red_card,is_stoppage_time,event_category
+39,39',Manchester City,Pablo Zabaleta,Goal,1-0,1-0,1,0,0,Scoring Event
+48,48',Queens Park Rangers,Djibril Cissé,Goal,1-1,1-1,1,0,0,Scoring Event
+55,55',Queens Park Rangers,Joey Barton,Red Card,1-1,1-1,0,1,0,Disciplinary Event
+66,66',Queens Park Rangers,Jamie Mackie,Goal,1-2,1-2,1,0,0,Scoring Event
+92,90+2',Manchester City,Edin Džeko,Goal,2-2,2-2,1,0,1,Scoring Event
+94,90+4',Manchester City,Sergio Agüero,Goal,3-2,3-2,1,0,1,Scoring Event
